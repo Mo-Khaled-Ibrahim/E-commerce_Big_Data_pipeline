@@ -48,8 +48,6 @@ This project implements a **production-grade, end-to-end Big Data pipeline** bui
 
 ### 📸 Architecture Diagram
 
-> ⬇️ **Place your architecture diagram image here**
-
 <!-- 
     TO ADD YOUR DIAGRAM:
     1. Put your image file in the /diagrams/ folder (e.g., diagrams/architecture.png)
