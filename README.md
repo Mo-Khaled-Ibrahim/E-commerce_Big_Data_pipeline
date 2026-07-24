@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Warehouse Pipeline
+# 🛒 E-Commerce Big Data Pipeline
 ### End-to-End Big Data Project — ITI 9-Month Professional Diploma | Big Data Track
 
 <div align="center">
