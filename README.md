@@ -1,5 +1,4 @@
 # 🛒 E-Commerce Big Data Pipeline
-### End-to-End Big Data Project — ITI 9-Month Professional Diploma | Big Data Track
 
 <div align="center">
 
@@ -614,21 +613,7 @@ DB Visualizer or DBeaver (local)
 ## 🤝 Acknowledgements
 
 - **Dataset:** [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — Kaggle
-- **Institution:** Information Technology Institute (ITI) — Egypt
-- **Track:** Big Data Engineering — 9-Month Professional Diploma
 
----
 
-## 📄 License
-
-This project is developed for academic purposes as part of the ITI 9-Month Professional Diploma graduation requirement.
-
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please give it a star!**
-
-*Built with ❤️ as part of ITI Big Data Track — 2026*
 
 </div>
